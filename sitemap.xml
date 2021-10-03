@@ -115,6 +115,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:插件开发</loc>
+		<lastmod>2021-10-03</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:林一二</loc>
 		<lastmod>2021-09-02</lastmod>
 		<changefreq>monthly</changefreq>
