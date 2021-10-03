@@ -61,6 +61,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:反向链接嵌入嵌出例子</loc>
+		<lastmod>2021-10-03</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:基础知识</loc>
 		<lastmod>2021-09-03</lastmod>
 		<changefreq>monthly</changefreq>
@@ -91,8 +97,14 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:嵌入</loc>
+		<lastmod>2021-10-03</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:快速创建新笔记按钮</loc>
-		<lastmod>2021-09-02</lastmod>
+		<lastmod>2021-10-03</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -122,6 +134,12 @@
 	</url>
 	<url>
 		<loc>https://onetwo.ren/wiki/#:用kin-filter搜索当前文件夹树里的Task（展示为列表）</loc>
+		<lastmod>2021-10-03</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:筛选器</loc>
 		<lastmod>2021-10-03</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
