@@ -13,6 +13,18 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:TW-Locator</loc>
+		<lastmod>2021-10-03</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:TW-Locator例子：当前知识库的目录</loc>
+		<lastmod>2021-10-03</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:TiddlyWikiIconBlack.png</loc>
 		<lastmod>2020-06-05</lastmod>
 		<changefreq>monthly</changefreq>
@@ -37,20 +49,56 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:他们是这样评价太微的</loc>
+		<lastmod>2021-10-03</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:反向链接</loc>
+		<lastmod>2021-10-03</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:基础知识</loc>
 		<lastmod>2021-09-03</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:太微</loc>
+		<lastmod>2021-10-03</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:太微背景介绍</loc>
+		<lastmod>2021-10-03</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:太微能做什么</loc>
+		<lastmod>2021-10-03</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:如何保存内容到社区仓库里</loc>
-		<lastmod>2021-09-02</lastmod>
+		<lastmod>2021-10-03</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://onetwo.ren/wiki/#:快速创建新笔记按钮</loc>
 		<lastmod>2021-09-02</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:插件使用</loc>
+		<lastmod>2021-10-03</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -62,7 +110,19 @@
 	</url>
 	<url>
 		<loc>https://onetwo.ren/wiki/#:欢迎来到太微！</loc>
-		<lastmod>2021-09-04</lastmod>
+		<lastmod>2021-10-03</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:用kin-filter搜索当前文件夹树里的Task（仅Filter）</loc>
+		<lastmod>2021-10-03</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:用kin-filter搜索当前文件夹树里的Task（展示为列表）</loc>
+		<lastmod>2021-10-03</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
