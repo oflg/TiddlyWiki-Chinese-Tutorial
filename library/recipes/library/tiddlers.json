@@ -1,15 +1,18 @@
 [
     {
-        "version": "0.0.6",
+        "version": "0.1.1",
         "type": "application/json",
-        "title": "$:/plugins/Gk0Wk/codemirror-mode-tiddlywiki5",
+        "title": "$:/plugins/Gk0Wk/TW5-CodeMirror-Enhanced",
         "plugin-type": "plugin",
         "parent-plugin": "$:/plugins/tiddlywiki/codemirror",
-        "name": "CodeMirror Mode TiddlyWiki5",
+        "name": "CodeMirror TW5 Enhanced",
         "list": "readme ControlPanel",
         "description": "TiddlyWiki5 highlighting mode for CodeMirror",
         "dependents": "$:/plugins/tiddlywiki/codemirror-autocomplete",
-        "readme": "View more on [[GitHub Repo|https://github.com/Gk0Wk/CodeMirror-Mode-TiddlyWiki5]].\n\nAdds Syntax Highlighting for TiddlyWiki5 tiddlers (`text/vnd.tiddlywiki`) to the CodeMirror, along with some other useful editor addon (wikilink hint, macro hint, etc.). Now is under development.\n\n为TiddlyWiki的CodeMirror编辑器添加TiddlyWiki5(`text/vnd.tiddlywiki`)语法高亮，同时还有其他有用的编辑器插件(如Wiki链接自动提示、宏提示等)。现在正在开发中。\n",
+        "author": "Gk0Wk",
+        "email": "nmg_wk@yeah.net",
+        "source": "https://github.com/Gk0Wk/TW5-CodeMirror-Enhanced",
+        "readme": "View more on [[GitHub Repo|https://github.com/Gk0Wk/TW5-CodeMirror-Enhanced]].\n\nCodeMirror editor for TiddlyWiki provides a flexible and rich extension framework (including highlighting, completion, preview and other features), anyone can use this framework to write extension plug-ins for the editor! Currently based on this framework to achieve the following features.\n\n* TiddlyWiki5 (`text/vnd.tiddlywiki`) syntax highlighting.\n* Wiki link auto-tip; * Tiddler preview; * TiddlyWiki5 (`text/vnd.tiddlywiki`)\n* Tiddler preview; * Tiddler preview.\n* Clickable links.\n\nMore features are in development, welcome to join!\n\n---\n\n为TiddlyWiki的CodeMirror编辑器提供一个灵活而丰富的扩展框架(包括高亮、补全、预览等功能)，任何人都可以使用此框架为编辑器编写扩展插件！目前基于此框架实现的功能有：\n\n* TiddlyWiki5(`text/vnd.tiddlywiki`)语法高亮；\n* Wiki链接自动提示；\n* Tiddler预览；\n* 可点击链接；\n\n更多功能正在开发中，欢迎你的加入！\n",
         "requires-reload": "yes"
     },
     {
