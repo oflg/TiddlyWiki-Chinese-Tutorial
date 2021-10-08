@@ -151,6 +151,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:条目</loc>
+		<lastmod>2021-10-08</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:林一二</loc>
 		<lastmod>2021-09-02</lastmod>
 		<changefreq>monthly</changefreq>
@@ -158,7 +164,7 @@
 	</url>
 	<url>
 		<loc>https://onetwo.ren/wiki/#:欢迎来到太微！</loc>
-		<lastmod>2021-10-03</lastmod>
+		<lastmod>2021-10-08</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
