@@ -13,6 +13,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:TODO%2520List</loc>
+		<lastmod>2021-10-08</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:TW-Locator</loc>
 		<lastmod>2021-10-03</lastmod>
 		<changefreq>monthly</changefreq>
