@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>https://onetwo.ren/wiki/#:JavaScript</loc>
+		<lastmod>2021-10-11</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:Product%2520Hunt%2520Link</loc>
 		<lastmod>2021-09-03</lastmod>
 		<changefreq>monthly</changefreq>
@@ -37,8 +43,8 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://onetwo.ren/wiki/#:TiddlyGit</loc>
-		<lastmod>2021-10-05</lastmod>
+		<loc>https://onetwo.ren/wiki/#:TiddlyGit太记</loc>
+		<lastmod>2021-10-11</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -91,6 +97,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:单页面HTML</loc>
+		<lastmod>2021-10-11</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:反向链接</loc>
 		<lastmod>2021-10-03</lastmod>
 		<changefreq>monthly</changefreq>
@@ -128,13 +140,25 @@
 	</url>
 	<url>
 		<loc>https://onetwo.ren/wiki/#:如何保存</loc>
-		<lastmod>2021-10-05</lastmod>
+		<lastmod>2021-10-11</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://onetwo.ren/wiki/#:如何保存内容到社区仓库里</loc>
 		<lastmod>2021-10-03</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:安装和删除插件</loc>
+		<lastmod>2021-10-11</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:宏</loc>
+		<lastmod>2021-10-11</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
